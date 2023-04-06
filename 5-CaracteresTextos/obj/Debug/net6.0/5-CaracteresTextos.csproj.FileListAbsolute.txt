@@ -1,0 +1,15 @@
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\bin\Debug\net6.0\5-CaracteresTextos.exe
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\bin\Debug\net6.0\5-CaracteresTextos.deps.json
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\bin\Debug\net6.0\5-CaracteresTextos.runtimeconfig.json
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\bin\Debug\net6.0\5-CaracteresTextos.dll
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\bin\Debug\net6.0\5-CaracteresTextos.pdb
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.csproj.AssemblyReference.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.AssemblyInfoInputs.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.AssemblyInfo.cs
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.dll
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\refint\5-CaracteresTextos.dll
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.pdb
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\5-CaracteresTextos.genruntimeconfig.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Explorando a Linguagem\AprendendoCSharp\5-CaracteresTextos\obj\Debug\net6.0\ref\5-CaracteresTextos.dll
